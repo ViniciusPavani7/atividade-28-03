@@ -1,10 +1,4 @@
 # atividade-28-03
-  3 	Annely Leticia 	moreira carrero 	16
-  4 	Caroline Camargo 	da Silva 	16
-  7 	Enzo 	Ferreira dos Santos 	16
-  9 	Gabriela 	Boarati Macedo 	16
-  11 	Geovana Ferreira 	Vieira 	16
-  25 	Pietra Alberganti 	Basso 	16
   28 	Vitor Hugo Alves 	Basso 	16
   29 	Victor dos Santos 	Calori 	16
 
@@ -22,8 +16,45 @@
             <td>16</td>
         </tr>
         <tr>
-            <td>Dado 4</td>
-            <td>Dado 5</td>
-            <td>Dado 6</td>
+            <td>4</td>
+            <td>Caroline</td>
+            <td>Camargo da Silva</td>
+            <td>16</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Enzo</td>
+            <td>Ferreira dos Santos</td>
+            <td>16</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Gabrielad>
+            <td>Boarati Macedo</td>
+            <td>16</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Geovana</td>
+            <td>Ferreira 	Vieira</td>
+            <td>16</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>Pietra</td>
+            <td>Alberganti 	Basso</td>
+            <td>16</td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>Vitor Hugo</td>
+            <td>Alves 	Basso</td>
+            <td>16</td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>Victor</td>
+            <td>dos Santos 	Calori</td>
+            <td>16</td>
         </tr>
     </table>
