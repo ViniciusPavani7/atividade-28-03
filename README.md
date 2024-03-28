@@ -1,6 +1,4 @@
 # atividade-28-03
-  28 	Vitor Hugo Alves 	Basso 	16
-  29 	Victor dos Santos 	Calori 	16
 
 <table border="1">
         <tr>
